@@ -1,0 +1,1 @@
+* Volley改造适应HttpResult
